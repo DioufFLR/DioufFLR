@@ -9,7 +9,10 @@ Welcome to my GitHub profile! Here are some things about me:
 - 💬 Ask me about ...
 - 📫 How to reach me: geoffrey.vizualee@gmail.com  
 - ⚡ Fun fact: ...
+
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
 
 ## Contact
 
