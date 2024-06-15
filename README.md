@@ -1,4 +1,3 @@
-![206214](https://github.com/DioufFLR/DioufFLR/assets/99737030/438d89ba-12b8-423e-9bbb-dab5170b6761)
 # 👋 Hello, I'm Diouf!
 
 Welcome to my GitHub profile! Here are some things about me:
@@ -10,4 +9,5 @@ Welcome to my GitHub profile! Here are some things about me:
 - 💬 Ask me about ...
 - 📫 How to reach me: geoffrey.vizualee@gmail.com  
 - ⚡ Fun fact: ...
-![1349196](https://github.com/DioufFLR/DioufFLR/assets/99737030/a00d3a34-5386-4ccc-8bea-22c52c103af7)
+
+![correlation_2560x1440](https://github.com/DioufFLR/DioufFLR/assets/99737030/a7525654-5e51-4e17-b8f8-c9f2fb95aaf8)
