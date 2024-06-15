@@ -9,7 +9,12 @@ Welcome to my GitHub profile! Here are some things about me:
 - 💬 Ask me about ...
 - 📫 How to reach me: geoffrey.vizualee@gmail.com  
 - ⚡ Fun fact: ...
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![77-774369_m](https://github.com/DioufFLR/DioufFLR/assets/99737030/151078d9-2909-4484-8813-2c1e55ccbb18)
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- [Twitter](https://twitter.com/YOUR_TWITTER)
+
 
 
