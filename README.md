@@ -1,3 +1,4 @@
+![206214](https://github.com/DioufFLR/DioufFLR/assets/99737030/438d89ba-12b8-423e-9bbb-dab5170b6761)
 # 👋 Hello, I'm Diouf!
 
 Welcome to my GitHub profile! Here are some things about me:
