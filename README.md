@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I'm Diouf!
+
+Welcome to my GitHub profile! Here are some things about me:
+
+- 🌱 I’m currently learning api
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: geoffrey.vizualee@gmail.com  
+- ⚡ Fun fact: ...
 
 <!--
 **DioufFLR/DioufFLR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
