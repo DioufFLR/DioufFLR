@@ -10,4 +10,5 @@ Welcome to my GitHub profile! Here are some things about me:
 - 📫 How to reach me: geoffrey.vizualee@gmail.com  
 - ⚡ Fun fact: ...
 
-![correlation_2560x1440](https://github.com/DioufFLR/DioufFLR/assets/99737030/a7525654-5e51-4e17-b8f8-c9f2fb95aaf8)
+![Uploading 77-774369_m.jpg…]()
+
