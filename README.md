@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! Here are some things about me:
 
-- 🔭 I’m currently working for Vizualee
-- 🌱 I’m currently learning api
+- 🔭 I’m currently working for Vizualee and Vizualeez
+- 🌱 I’m currently learning to begin better
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: geoffrey.vizualee@gmail.com  
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love cat and Bmw
 
 Today is Thursday.
 
