@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here are some things about me:
 - 📫 How to reach me: gfleur.rosalead@gmail.com  
 - ⚡ Fun fact: I love cat and Bmw
 
-Today is Tuesday.
+Today is Wednesday.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DioufFLR&show_icons=true&theme=radical)
 
