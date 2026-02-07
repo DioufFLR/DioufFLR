@@ -36,7 +36,7 @@ Un moteur de passeport numérique de produit conforme aux normes européennes (E
 ---
 
 ## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=DioufFLR&show_icons=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/DioufFLR?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FParis)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=DioufFLR&layout=compact&theme=radical)
 
 ---
